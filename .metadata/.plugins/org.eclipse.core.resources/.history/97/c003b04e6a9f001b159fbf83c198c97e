@@ -1,0 +1,14 @@
+package application;
+
+public class App {
+
+	public static void main(String[] args) {
+		int otters = 5;
+		int giraffes = 10;
+		int elephants = 3;
+
+		System.out.printf("Otters: %d\n Giraffes: %d\n Elephants: %d\n", otters, giraffes, elephants);
+
+	}
+
+}

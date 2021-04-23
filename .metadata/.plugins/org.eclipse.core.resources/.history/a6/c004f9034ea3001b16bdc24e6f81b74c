@@ -1,0 +1,25 @@
+package application;
+
+import java.util.Scanner;
+
+public class App {
+	System.out.print("Do you want to proceed (y/n):");
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner (System.in);
+		String input = scanner.nextLine();
+		scanner.close();
+		
+		switch(input) {
+		case "y":
+			System.out.println("Proceeding...");
+			break;
+		case "n":
+			System.out.println("");
+			break;
+		default:
+			break;
+		}
+
+	}
+
+}

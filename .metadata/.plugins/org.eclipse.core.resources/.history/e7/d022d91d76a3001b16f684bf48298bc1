@@ -1,0 +1,17 @@
+package application;
+
+public class App {
+
+	public static void main(String[] args) {
+		
+		// To make variable, that I won't be able to change in the future,
+		// I will use a Final modifier:
+		
+		final int value = 9;
+		System.out.println(value);
+		
+		value = 11;
+		System.out.println(value);
+	}
+
+}

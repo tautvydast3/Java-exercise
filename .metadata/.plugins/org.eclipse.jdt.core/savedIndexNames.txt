@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\Users\Baelum\Desktop\JAVA\Java 11 For Complete Beginners\.metadata\.plugins\org.eclipse.jdt.core
+3917109473.index
+437762492.index
+2495962120.index
+80914538.index
+3046969970.index

@@ -1,0 +1,28 @@
+package application;
+
+import java.util.Scanner;
+
+public class App {
+
+	public static void main(String[] args) {
+		final String USER_PASSWORD = "tele";
+		int count = 1;
+
+		System.out.print("Input password > ");
+		
+
+		while (Scanner scanner = new Scanner(System.in);
+
+		String inputPass = scanner.nextLine();
+		scanner.close();) {
+			if (inputPass.equals(USER_PASSWORD)) {
+				System.out.println("Password is correct!");
+				break;
+			} else {
+				System.out.println("Try again > ");
+			}
+			count++;
+
+		}
+	}
+}

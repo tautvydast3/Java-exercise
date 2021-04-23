@@ -1,0 +1,11 @@
+package application;
+
+public class App {
+
+	public static void main(String[] args) {
+		int value = 9;
+		System.out.println(value);
+
+	}
+
+}
