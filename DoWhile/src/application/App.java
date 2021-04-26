@@ -5,9 +5,11 @@ public class App {
 	public static void main(String[] args) {
 
 		/*
-		 * boolean loopCondition = true; do { System.out.println("Yeah, whatever"); }
-		 * while (loopCondition);
+		 boolean loopCondition = true; 
+		 do { System.out.println("Yeah, whatever"); }
+		 while (loopCondition);
 		 */
+		 
 		// When counting this way, it counts till 10:
 		int count = 0;
 		int count1 = 0;

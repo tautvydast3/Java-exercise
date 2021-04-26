@@ -27,7 +27,7 @@ public class App {
 		// How it was done in the tutorial:
 
 		/*
-		 * final String = USER_PASSWORD = "hello";
+		 * final String USER_PASSWORD = "hello";
 		 * 
 		 * Scanner scanner = new Scanner(System.in);
 		 * 
