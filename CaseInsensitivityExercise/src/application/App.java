@@ -33,9 +33,16 @@ public class App {
 		 */
 
 		Scanner scanner = new Scanner(System.in);
+				
+			System.out.println("\t\t\t\t   Commands:");
+			System.out.println("");
+			System.out.println("\t\t\t        START / STOP");
+			System.out.println("\t\t\t\t     quit");
+			System.out.println("");
+
 
 		for (;;) {
-			System.out.println("Enter the command > ");
+			System.out.println("\t\t\t     Enter the command > ");
 			String command = scanner.nextLine();
 
 			if (command.equals("quit")) {
