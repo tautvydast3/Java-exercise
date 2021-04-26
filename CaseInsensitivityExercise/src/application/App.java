@@ -33,20 +33,41 @@ public class App {
 		 */
 
 		Scanner scanner = new Scanner(System.in);
-		System.out.println("START THE MACHINE! > ");
-		String name = scanner.nextLine();
-			
 
-		if (name.equalsIgnoreCase("START")) {
-			System.out.println("Machine starting ....");
-		}
-		
-		if (name.equalsIgnoreCase("stop")) {
-			System.out.println("Machine stopping .....");
-		}
-		
-		System.out.printf("The lenght of '%s' is %d\n", name, name.length());
+		for (;;) {
+			System.out.println("Enter the command > ");
+			String command = scanner.nextLine();
 
+			if (command.equals("quit")) {
+				System.out.println("Exiting .....");
+				break;
+			}
+
+			// If they enter 'start' or 'START', regardless of capitalisation, print
+			// 'Machine starting ....'
+
+			else if (command.equalsIgnoreCase("START")) {
+				System.out.println("Machine starting ....");
+			}
+
+			// If they Enter 'stop', regardless of capitalisation, print 'Machine stopping
+			// .....'.
+
+			else if (command.equalsIgnoreCase("stop")) {
+				System.out.println("Machine stopping .....");
+			}
+
+			// Otherwise print 'Unrecognised command'.
+
+			else if (!command.equals("")) {
+				System.out.println("Unrecognised command");
+			}
+
+			// Use the string length to determine if they have entered nothing.
+
+			else if (command.length() == 0) {
+				System.out.println("Unrecognised command");
+			}
+		}
 	}
-
 }
