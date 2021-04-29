@@ -37,35 +37,20 @@ public class App {
 		for (;;) {
 			System.out.println("Enter the command > ");
 			String command = scanner.nextLine();
-
+			
+			// If they enter 'quit', print 'Exiting' ....' and quit the program.
+			// If they enter 'start' or 'START', regardless of capitalisation, print 'Machine starting ....'
+			// If they Enter 'stop', regardless of capitalisation, print 'Machine stopping .....'.
+			// Otherwise print 'Unrecognised command'. Also use the string length to determine if they have entered nothing.
+			
 			if (command.equals("quit")) {
 				System.out.println("Exiting .....");
 				break;
-			}
-
-			// If they enter 'start' or 'START', regardless of capitalisation, print
-			// 'Machine starting ....'
-
-			else if (command.equalsIgnoreCase("START")) {
+			} else if (command.equalsIgnoreCase("START")) {
 				System.out.println("Machine starting ....");
-			}
-
-			// If they Enter 'stop', regardless of capitalisation, print 'Machine stopping
-			// .....'.
-
-			else if (command.equalsIgnoreCase("stop")) {
+			} else if (command.equalsIgnoreCase("stop")) {
 				System.out.println("Machine stopping .....");
-			}
-
-			// Otherwise print 'Unrecognised command'.
-
-			else if (!command.equals("")) {
-				System.out.println("Unrecognised command");
-			}
-
-			// Use the string length to determine if they have entered nothing.
-
-			else if (command.length() == 0) {
+			} else if (!command.equals("") || (command.length() == 0)) {
 				System.out.println("Unrecognised command");
 			}
 		}
