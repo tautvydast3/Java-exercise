@@ -14,6 +14,8 @@ public class App {
 		numbers[1] = scanner.nextInt();
 		System.out.print("Enter third number > ");
 		numbers[2] = scanner.nextInt();
+		
+		scanner.close();
 
 		for (int i = 0; i < 3; i++) {
 			System.out.println(numbers[i]);

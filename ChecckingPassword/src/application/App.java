@@ -6,13 +6,13 @@ public class App {
 
 	public static void main(String[] args) {
 		final String USER_PASSWORD = "tele";
-		int count = 1;
+		int count = 0;
 
 		System.out.print("Input password > ");
 		Scanner scanner = new Scanner(System.in);
 		String inputPass = scanner.nextLine();
 
-		while (count > 0) {
+		while (count < 3) {
 			if (inputPass.equals(USER_PASSWORD)) {
 				System.out.println("Password is correct!");
 				break;
