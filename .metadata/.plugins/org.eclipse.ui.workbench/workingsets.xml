@@ -5,9 +5,7 @@
 <workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1618507509808_3" label="Projects 1" name="Projects 1">
 <item elementID="=UserInput/src&lt;application{App.java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
-<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1619435658753_6" label="CodeAcadamy" name="CodeAcadamy">
-<item elementID="=Date" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
-</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1619435658753_6" label="CodeAcadamy" name="CodeAcadamy"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1617965568486_2" label="Window Working Set" name="Aggregate for window 1617965568486"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1618656116908_5" label="Multiple Working Sets" name="Aggregate:Projects 1:Projects 2:">
 <workingSet IMemento.internal.id="Projects 1"/>

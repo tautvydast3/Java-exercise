@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <dirs>
+    <entry loc="/opt/eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_15.0.2.v20210201-0955/jre" stamp="1621356377526"/>
     <entry loc="C:\Program Files\Amazon Corretto\jdk11.0.10_9" stamp="1617958616829"/>
+    <entry loc="/opt/eclipse/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.linux.x86_64_15.0.2.v20210201-0955" stamp="1621356377086"/>
 </dirs>
