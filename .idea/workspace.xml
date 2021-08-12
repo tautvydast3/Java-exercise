@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a7cb8301-0305-4f0c-b562-92d3e0a35f49" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries-with-intellij-classes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test [workspace master]/Test [workspace master].iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ant.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ant.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/version.ini" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/version.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Addition/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Addition/bin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arithmetic/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Arithmetic/bin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assigning Variables/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Assigning Variables/bin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boolean/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Boolean/bin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Break/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Break/bin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculations/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Calculations/bin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChecckingPassword/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/ChecckingPassword/bin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ComparingStrings/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/ComparingStrings/bin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ControlCharacters/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/ControlCharacters/bin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConvertingTemperatures/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/ConvertingTemperatures/bin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CreatingAMenu/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/CreatingAMenu/bin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DoWhile/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/DoWhile/bin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Doubles/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Doubles/bin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Equality/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Equality/bin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/For/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/For/bin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FormatSpecifiers/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/FormatSpecifiers/bin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FormatSpecifiersExample/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/FormatSpecifiersExample/bin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formatting/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Formatting/bin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/bin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/If/bin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IfElse/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/IfElse/bin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IfElseIf/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/IfElseIf/bin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IncrementingAndDecrement/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/IncrementingAndDecrement/bin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntegerVariables/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/IntegerVariables/bin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LoopConditions/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/LoopConditions/bin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainMethod/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/MainMethod/bin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoreIfElseIf/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/MoreIfElseIf/bin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoreWhileLoops/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/MoreWhileLoops/bin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneLineIf/bin/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PostfixAndPrefix/bin/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PostfixPrefixDecrement/bin/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Strings/bin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Switch/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Switch/bin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SwitchFallthrough/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/SwitchFallthrough/bin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TheFinalKeyword/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/TheFinalKeyword/bin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThingYouCanDoWithStrings/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/ThingYouCanDoWithStrings/bin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserInput/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/UserInput/bin/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WhileLoops/bin/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/WhileLoops/bin/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1wKLMVYUKihBvo3WAb7eRVZQ9cf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7cb8301-0305-4f0c-b562-92d3e0a35f49" name="Default Changelist" comment="" />
+      <created>1628202287768</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628202287768</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
